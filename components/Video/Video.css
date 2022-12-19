@@ -1,0 +1,20 @@
+#video-container{
+    /* height: 100%;
+    width: 100%; */
+    background-color: whitesmoke;
+    width: 95%;
+    height: 100% !important;
+    /* background-color: whitesmoke; */
+    /* border-radius: 5%; */
+    margin: 2vh;
+    padding-top: 4vh;
+}
+#thumbnail{
+    height: 40vh;
+}
+#recent-detected-videos{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px !important;
+}

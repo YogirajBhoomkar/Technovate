@@ -1,0 +1,25 @@
+#Alert-container{
+    width: 95%;
+    height: 100%;
+    background-color:whitesmoke;
+    border-radius: 2%;
+    margin: 2vh;
+}
+#alert-Container-inner{
+    /* background-color: aquamarine; */
+    /* width:1vw !important; */
+    width: auto;
+    /* height: 100%; */
+    background-color: whitesmoke;
+    position:fixed;
+    /* bottom: 0; */
+    right: 50%;
+    margin: 12vh;
+    border-radius: 2%;
+}
+#reset-button{
+  position: fixed;
+  right: 10px;
+  top:10px;
+
+}
