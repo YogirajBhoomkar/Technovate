@@ -16,3 +16,4 @@
 # 5. File path to detections video  
   REACT_APP_DETECTIONS_FILE_PATH=./detections/1.mp4.
   try not to change directory structure as it may cause path issues...but can change filename if you want.
+  also make sure to keep replacing the file with same name and folder structure.
