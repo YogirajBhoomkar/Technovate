@@ -1,7 +1,7 @@
 # Technovate
 # Configure the enviornment file to setup things...
 
-#1. Check status url 
+# 1. Check status url 
   REACT_APP_CHECK_STATUS={ url to check status goes here }
 ------> sample response expected: 
 {
